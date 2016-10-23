@@ -3,7 +3,7 @@
  * File              : status.php
  * Program           : DBG Games Server Status
  * Copyright         : (C) 2016 BlackBlade Software. All Rights Reserved.
- * Project Website   : http://bbspizzaonline.sourceforge.net
+ * Project Website   : https://github.com/Manvaril/dbgstatus
  *
  * Last Modified By  : Manvaril
  * Last Modified Date: 10/22/2016

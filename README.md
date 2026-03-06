@@ -1,5 +1,3 @@
-[![Stories in Ready](https://badge.waffle.io/Manvaril/dbgstatus.svg?label=ready&title=Ready)](http://waffle.io/Manvaril/dbgstatus)
-
 Purpose
 =======
 
